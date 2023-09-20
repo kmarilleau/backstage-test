@@ -1,8 +1,0 @@
-{
-  "name": "Backstage Devcontainer",
-  "version": "1.0.0",
-  "build": {
-    "dockerfile": "Dockerfile"
-  },
-  "runArgs": ["-p", "3000:3000"]
-}
