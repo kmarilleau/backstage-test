@@ -1,5 +1,8 @@
 FROM node:18
 
+COPY ./src /app
+WORKDIR /app
+
 # Install dependencies
 RUN yarn install
 
