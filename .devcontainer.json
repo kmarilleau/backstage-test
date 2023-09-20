@@ -5,5 +5,5 @@
       "dockerfile": "Dockerfile"
     },
     "runArgs": ["-p", "3000:3000"]
-  }
+}
   
